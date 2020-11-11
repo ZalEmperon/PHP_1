@@ -4,9 +4,6 @@
 	<title>Get</title>
 </head>
 <body>
-	<?php if (isset($_GET["text"])) : ?>
-		<h3>Mohon masukan dulu</h3>
-	<?php endif; ?>
 	<fieldset id="ini">
 		<label for="ini">DATA</label>
 		<form method="GET" action="proces.php">
