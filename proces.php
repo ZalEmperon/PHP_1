@@ -6,7 +6,7 @@
 	}
 	else
 	{
-		echo "Maaf, anda harus mengakses halaman ini dari form.html<br><br>";
+		echo "Maaf, anda harus mengakses halaman ini dari form<br><br>";
 	}
 	if (!empty($nama) AND !empty($email))
 	{
